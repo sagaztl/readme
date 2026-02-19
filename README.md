@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">My name is Skiter! <br><br>✨ Studying Game Hacking since 2024<br>📚 I'm currently learning C++ and Kernel<br>🎯 Goals: C#/Reverse Engineering/C++</p>
+<p align="left">My name is Skiter! <br><br>✨ Studying Game Hacking since 2025<br>📚 I'm currently learning C++ and Kernel<br>🎯 Goals: C#/Reverse Engineering/C++</p>
 
 ###
 
